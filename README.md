@@ -2,7 +2,10 @@
 
 ### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-My name is YK and I'm a software engineer, blockchain developer from Malaysia. You can find me on https://www.linkedin.com/in/yenkhoon/.
+My name is YK and I'm a software engineer, blockchain developer from Malaysia.  
+You can find me on: [![linkedin](	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]  
+
+[1]:https://www.linkedin.com/in/yenkhoon/.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
