@@ -28,7 +28,7 @@ You can find me on: [![linkedin](https://raw.githubusercontent.com/MartinHeinz/M
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yenkhoon/yenkhoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenkhoon&,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenkhoon&langs_count=4,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/yenkhoon/yenkhoon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yenkhoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="yenkhoon's GitHub Stats" />
