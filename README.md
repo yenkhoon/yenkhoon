@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 
 My name is YK and I'm a software engineer, blockchain developer from Malaysia.  
 You can find me on: [![linkedin](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)][1]  
