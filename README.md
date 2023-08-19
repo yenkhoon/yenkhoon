@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tankhoon@gmail.com.yenkhoon)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=tankhoon@gmail.com.yenkhoon) -->
+![visitors](https://komarev.com/ghpvc/?username=yenkhoon&color=red)
 ### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 My name is YK and I'm a software engineer, blockchain developer from Malaysia.  
 
@@ -45,9 +46,8 @@ My name is YK and I'm a software engineer, blockchain developer from Malaysia.
 
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/yenkhoon/yenkhoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenkhoon&langs_count=3,html&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenkhoon&hide_progress=true&theme=aura_dark" />
 </a>
 <a href="https://github.com/yenkhoon/yenkhoon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yenkhoon&show_icons=true&line_height=27&theme=aura_dark" alt="yenkhoon's GitHub Stats" />
